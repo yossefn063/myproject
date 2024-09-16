@@ -1,4 +1,4 @@
 # myproject
 this is a test project
-<h1 style="color: darkcyan;">What is this project?</h1>
+<h1 style = "color: darkcyan;">What is this project?</h1>
 <p> This project is done in the process of learning Git and GitHub with the instructor Gharib El-sheikh.</p>
